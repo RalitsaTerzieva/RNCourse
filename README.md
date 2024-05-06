@@ -1,5 +1,5 @@
-# My First React Native Application
-
+# My First React Native Application 📱
+ 
 This is my first React Native application, designed to help me learn and explore the capabilities of mobile development with React Native.
 
 ## Getting Started
@@ -8,7 +8,7 @@ To run this application, clone the repository, install dependencies, and start t
 
 ```
 git clone https://github.com/RalitsaTerzieva/RNCourse
-cd my-react-native-app
+cd RNCourse
 npm install
 npm start
 ```
