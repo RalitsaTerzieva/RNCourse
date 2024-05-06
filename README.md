@@ -7,7 +7,7 @@ This is my first React Native application, designed to help me learn and explore
 To run this application, clone the repository, install dependencies, and start the application:
 
 ```
-git clone https://github.com/yourusername/my-react-native-app.git
+git clone https://github.com/RalitsaTerzieva/RNCourse
 cd my-react-native-app
 npm install
 npm start
