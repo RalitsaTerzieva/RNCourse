@@ -3,7 +3,7 @@ import { StyleSheet, View, Text, Pressable } from 'react-native';
 
 function GoalItem({ text, id, onDeleteItem }) {
     return (
-        <Pressable onPress={() => onDeleteItem(id)} >
+        <Pressable onPress={onDeleteItem.bind(this, id)} >
             <View style={styles.goalItem} >
                 <Text style={styles.goalText}>{text}</Text>
             </View>
